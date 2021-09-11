@@ -1,0 +1,11 @@
+/* Reset the webpage default configurations */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Configure your webpage to fill entire nav screen with the map  */
+#map{
+    width: 100vw;
+    height: 100vh;
+}
